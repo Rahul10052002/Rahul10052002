@@ -8,7 +8,7 @@ Hey there! 👋 I'm Rahul Chavhan, a passionate student pursuing Electronics and
 - **UI/UX Development:** I'm enthusiastic about creating intuitive user interfaces and enhancing user experiences. Understanding user needs and behaviors and translating them into delightful designs is something I constantly strive for.
 
 ### My Projects
-- **Project 1:** *?AMAZON Clone * - "Designed an Amazon clone using HTML and CSS, following tutorials from Apna College YouTube channel for a hands-on web development experience."
+- **Project 1:** *AMAZON Clone * - "Designed an Amazon clone using HTML and CSS, following tutorials from Apna College YouTube channel for a hands-on web development experience."
 
 ### Get in Touch
 📧 Email: [Rahulchavan111969@gmail.com]  
